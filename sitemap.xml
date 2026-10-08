@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://8hiofficial.com/</loc>
-<lastmod>2026-09-01T18:30:00.000Z</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1</priority>
-</url>
-<url>
-<loc>https://8hiofficial.com/brand</loc>
-<lastmod>2026-09-01T18:30:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://8hiofficial.com/official-sites</loc>
-<lastmod>2026-09-01T18:30:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://8hiofficial.com/about</loc>
-<lastmod>2026-09-01T18:30:00.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
+  <url><loc>https://8hiofficial.com/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/about/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/brand/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/guides/android-installation/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/guides/apk-download-guide/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/guides/app-version-2026/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/guides/official-8hi-links/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://8hiofficial.com/official-sites/</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq></url>
 </urlset>
